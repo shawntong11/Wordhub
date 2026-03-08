@@ -11,7 +11,7 @@ No sign-up. No install. No ads. Just words.
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/290c2082-9bcb-4d5a-90e6-46e28241225f" width="420" /></td>
-    <td><img src="https://github.com/user-attachments/assets/95a0e180-d7fe-49c4-b1f4-3222f4944586" width="420" /></td>
+    <td><img src="https://github.com/user-attachments/assets/600d4d19-67ea-413e-9838-45c67a3f1d31" width="420" /></td>
   </tr>
 </table>
 
