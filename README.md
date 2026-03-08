@@ -7,10 +7,13 @@ No sign-up. No install. No ads. Just words.
 ---
 
 ## Preview
-<img width="950" height="1440" alt="Screenshot 2026-03-08 at 12 11 57 AM" src="https://github.com/user-attachments/assets/290c2082-9bcb-4d5a-90e6-46e28241225f" />
 
-<img width="839" height="693" alt="Screenshot 2026-03-08 at 12 12 43 AM" src="https://github.com/user-attachments/assets/95a0e180-d7fe-49c4-b1f4-3222f4944586" />
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/290c2082-9bcb-4d5a-90e6-46e28241225f" width="420" /></td>
+    <td><img src="https://github.com/user-attachments/assets/95a0e180-d7fe-49c4-b1f4-3222f4944586" width="420" /></td>
+  </tr>
+</table>
 
 ---
 
