@@ -3,7 +3,7 @@
 **A beautifully simple English vocabulary app — open your browser and start learning.**
 
 ## Try It
-**[🌐 Try WordCards Online](https://github.com/shawntong11/Wordhub)**
+**[🌐 Try WordCards Online](https://shawntong11.github.io/WordCards/)**
 
 No sign-up. No install. No ads. Just words.
 
